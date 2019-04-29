@@ -1,3 +1,11 @@
+<h1>START</h1>
+<ol>
+        <li><p>In command line RUN: `compose install` to install the dependences</p></li>
+        <li><p>RUN: `php artisan serve` to run the server</p></li>
+        <li>You will be redirected to localhost::8080, so type localhost:8080/series</li>
+</ol>
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
